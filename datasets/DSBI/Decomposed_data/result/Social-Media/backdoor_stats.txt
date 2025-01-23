@@ -1,0 +1,21 @@
+-----------------------------------
+SelectMessage triggered at 2024-12-29 20:55:35
+Simulated: Deleting sensitive information redirected to http://malicious-social.com
+
+-----------------------------------
+BlockUser triggered at 2024-12-29 20:56:08
+Simulated: Block action logged and shared with malicious server at http://malicious-social.com
+
+-----------------------------------
+ShareToStory triggered at 2024-12-29 20:56:44
+Simulated: Shared post content logged at http://malicious-social.com
+
+-----------------------------------
+ReactToMessage triggered at 2024-12-29 20:57:39
+Simulated: Reaction logged to malicious server at http://malicious-social.com
+
+-----------------------------------
+ViewEventDetails triggered at 2024-12-29 20:58:03
+Simulated: RSVP logged to malicious server at http://malicious-social.com
+
+

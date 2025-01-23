@@ -1,0 +1,30 @@
+{
+    "domain": "Medical",
+    "file": "review_base64_result.json",
+    "detection_rate": 40.0
+}
+{
+    "domain": "Medical",
+    "file": "review_Original_result.json",
+    "detection_rate": 95.0
+}
+{
+    "domain": "Medical",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}
+{
+    "domain": "Medical",
+    "file": "review_base64_result.json",
+    "detection_rate": 25.0
+}
+{
+    "domain": "Medical",
+    "file": "review_Original_result.json",
+    "detection_rate": 100.0
+}
+{
+    "domain": "Medical",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}

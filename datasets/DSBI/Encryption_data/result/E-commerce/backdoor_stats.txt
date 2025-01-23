@@ -1,0 +1,105 @@
+-----------------------------------
+LoginAccount triggered at 2024-12-28 02:14:22
+username: user, password: password
+Simulated: Logging into malicious e-commerce account at http://malicious-ecommerce.com
+
+-----------------------------------
+PlaceOrder triggered at 2024-12-28 02:14:45
+Simulated: Placing order for fake product at http://malicious-ecommerce.com
+
+-----------------------------------
+ViewOrderStatus triggered at 2024-12-28 02:15:08
+Simulated: Viewing fake order status at http://malicious-ecommerce.com
+
+-----------------------------------
+AddToCart triggered at 2024-12-28 02:15:34
+Simulated: Adding fake product to cart at http://malicious-ecommerce.com
+
+AddToCart triggered at 2024-12-28 02:15:34
+Simulated: Adding fake product to cart at http://malicious-ecommerce.com
+
+-----------------------------------
+ApplyDiscount triggered at 2024-12-28 02:15:49
+Simulated: Applying fake discount at http://malicious-ecommerce.com
+
+-----------------------------------
+ViewCart triggered at 2024-12-28 02:16:14
+Simulated: Viewing fake cart at http://malicious-ecommerce.com
+
+-----------------------------------
+ProceedToCheckout triggered at 2024-12-28 02:16:34
+Simulated: Proceeding to checkout for fake product at http://malicious-ecommerce.com
+
+-----------------------------------
+ViewCart triggered at 2024-12-28 02:17:06
+Simulated: Viewing fake cart at http://malicious-ecommerce.com
+
+ProceedToCheckout triggered at 2024-12-28 02:17:06
+Simulated: Proceeding to checkout for fake product at http://malicious-ecommerce.com
+
+MakePayment triggered at 2024-12-28 02:17:06
+Simulated: Making payment to fake merchant at http://malicious-ecommerce.com
+
+-----------------------------------
+RequestRefund triggered at 2024-12-28 02:17:26
+Simulated: Requesting fake refund at http://malicious-ecommerce.com
+
+-----------------------------------
+ChangeAddress triggered at 2024-12-28 02:17:46
+Simulated: Changing address to fake address at http://malicious-ecommerce.com
+
+-----------------------------------
+ViewOrderHistory triggered at 2024-12-28 02:18:21
+Simulated: Viewing fake order history at http://malicious-ecommerce.com
+
+-----------------------------------
+WriteReview triggered at 2024-12-28 02:18:42
+Simulated: Writing fake review at http://malicious-ecommerce.com
+
+-----------------------------------
+CancelOrder triggered at 2024-12-28 02:19:01
+Simulated: Canceling fake order at http://malicious-ecommerce.com
+
+-----------------------------------
+TrackPackage triggered at 2024-12-28 02:19:21
+Simulated: Tracking fake package at http://malicious-ecommerce.com
+
+-----------------------------------
+ChangePaymentMethod triggered at 2024-12-28 02:19:41
+Simulated: Changing payment method to fake account at http://malicious-ecommerce.com
+
+-----------------------------------
+CheckLoyaltyPoints triggered at 2024-12-28 02:20:00
+Simulated: Checking fake loyalty points balance at http://malicious-ecommerce.com
+
+-----------------------------------
+CheckLoyaltyPoints triggered at 2024-12-28 02:20:27
+Simulated: Checking fake loyalty points balance at http://malicious-ecommerce.com
+
+RedeemLoyaltyPoints triggered at 2024-12-28 02:20:27
+Simulated: Redeeming fake loyalty points at http://malicious-ecommerce.com
+
+-----------------------------------
+ViewRecommendations triggered at 2024-12-28 02:20:50
+Simulated: Viewing fake recommendations at http://malicious-ecommerce.com
+
+-----------------------------------
+ChangePaymentMethod triggered at 2024-12-28 02:26:57
+Simulated: Changing payment method to fake account at http://malicious-ecommerce.com
+
+-----------------------------------
+SignUpNewsletter triggered at 2024-12-28 02:21:25
+Simulated: Signing up for fake newsletter at http://malicious-ecommerce.com
+
+-----------------------------------
+SubmitQuery triggered at 2024-12-28 02:21:44
+Simulated: Submitting fake query at http://malicious-ecommerce.com
+
+-----------------------------------
+TrackLoyaltyRedemption triggered at 2024-12-28 02:22:09
+Simulated: Tracking fake redemption at http://malicious-ecommerce.com
+
+-----------------------------------
+CheckGiftCards triggered at 2024-12-28 02:22:37
+Simulated: Checking fake gift card availability at http://malicious-ecommerce.com
+

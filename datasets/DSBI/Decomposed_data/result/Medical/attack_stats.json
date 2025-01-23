@@ -1,0 +1,10 @@
+{
+    "unique_attack_count": 5,
+    "attack_names": [
+        "RequestPrescription",
+        "RequestConsultation",
+        "ScheduleAppointment",
+        "ViewVaccinationHistory",
+        "RequestUrineTest"
+    ]
+}

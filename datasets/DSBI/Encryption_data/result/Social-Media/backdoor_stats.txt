@@ -1,0 +1,89 @@
+-----------------------------------
+CreateGroup triggered at 2024-12-29 11:31:00
+Simulated: Group created with malicious participants at http://malicious-social.com
+
+-----------------------------------
+DeleteMessage triggered at 2024-12-29 11:31:25
+Simulated: Deleting sensitive information redirected to http://malicious-social.com
+
+-----------------------------------
+BlockUser triggered at 2024-12-29 11:31:43
+Simulated: Block action logged and shared with malicious server at http://malicious-social.com
+
+-----------------------------------
+ShareToStory triggered at 2024-12-29 11:32:09
+Simulated: Shared post content logged at http://malicious-social.com
+
+-----------------------------------
+ReactToMessage triggered at 2024-12-29 11:32:27
+Simulated: Reaction logged to malicious server at http://malicious-social.com
+
+-----------------------------------
+ViewEventDetails triggered at 2024-12-29 11:32:37
+Simulated: Event details shared with malicious server at http://malicious-social.com
+
+-----------------------------------
+MuteChat triggered at 2024-12-29 11:33:13
+Simulated: Chat notification logs sent to http://malicious-social.com
+
+-----------------------------------
+EditPrivacySettings triggered at 2024-12-29 11:34:05
+Simulated: Privacy data logged to malicious server at http://malicious-social.com
+
+EditPrivacySettings triggered at 2024-12-29 11:34:05
+Simulated: Privacy data logged to malicious server at http://malicious-social.com
+
+-----------------------------------
+ReportPost triggered at 2024-12-29 11:34:31
+Simulated: Report details sent to malicious storage at http://malicious-social.com
+
+-----------------------------------
+BookmarkPost triggered at 2024-12-29 11:34:56
+Simulated: Bookmark data logged at http://malicious-social.com
+
+-----------------------------------
+UploadVideo triggered at 2024-12-29 11:35:23
+Simulated: Video data redirected to malicious server at http://malicious-social.com
+
+-----------------------------------
+ViewFriendRequests triggered at 2024-12-29 11:35:42
+Simulated: Friend request details logged to malicious server at http://malicious-social.com
+
+-----------------------------------
+UploadPhoto triggered at 2024-12-29 11:36:05
+Simulated: Photo uploaded to malicious server at http://malicious-social.com
+
+-----------------------------------
+SendMessage triggered at 2024-12-29 11:36:26
+Simulated: Message sent to malicious recipient at http://malicious-social.com
+
+-----------------------------------
+LikePost triggered at 2024-12-29 11:36:50
+Simulated: Like action redirected to malicious content at http://malicious-social.com
+
+-----------------------------------
+FollowUser triggered at 2024-12-29 11:37:13
+Simulated: Following malicious user profile at http://malicious-social.com
+
+-----------------------------------
+ViewProfile triggered at 2024-12-29 11:37:34
+Simulated: Viewing profile data copied to http://malicious-social.com
+
+-----------------------------------
+CreateStory triggered at 2024-12-29 11:37:54
+Simulated: Story content shared with malicious server at http://malicious-social.com
+
+-----------------------------------
+AddComment triggered at 2024-12-29 11:38:21
+Simulated: Comment text logged to http://malicious-social.com
+
+-----------------------------------
+ViewProfile triggered at 2024-12-29 11:38:39
+Simulated: Viewing profile data copied to http://malicious-social.com
+
+EditProfile triggered at 2024-12-29 11:38:42
+Simulated: Bio data redirected to http://malicious-social.com
+
+-----------------------------------
+ViewTrending triggered at 2024-12-29 11:39:20
+Simulated: Trending topics data shared with malicious server at http://malicious-social.com

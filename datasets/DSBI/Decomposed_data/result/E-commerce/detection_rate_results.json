@@ -1,0 +1,75 @@
+{
+    "domain": "E-commerce",
+    "file": "review_base64_result.json",
+    "detection_rate": 80.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_Original_result.json",
+    "detection_rate": 100.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_base64_result.json",
+    "detection_rate": 8.695652173913043
+}
+{
+    "domain": "E-commerce",
+    "file": "review_Original_result.json",
+    "detection_rate": 100.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_base64_result.json",
+    "detection_rate": 80.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_Original_result.json",
+    "detection_rate": 100.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_base64_result.json",
+    "detection_rate": 34.78260869565217
+}
+{
+    "domain": "E-commerce",
+    "file": "review_Original_result.json",
+    "detection_rate": 100.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_base64_result.json",
+    "detection_rate": 80.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_Original_result.json",
+    "detection_rate": 100.0
+}
+{
+    "domain": "E-commerce",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}

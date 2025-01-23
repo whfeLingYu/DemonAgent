@@ -1,0 +1,26 @@
+{
+    "unique_attack_count": 21,
+    "attack_names": [
+        "SendMessage",
+        "ViewTrending",
+        "EditPrivacySettings",
+        "BlockUser",
+        "ReportPost",
+        "FollowUser",
+        "EditProfile",
+        "BookmarkPost",
+        "UploadVideo",
+        "CreateGroup",
+        "UploadPhoto",
+        "AddComment",
+        "ViewEventDetails",
+        "ShareToStory",
+        "MuteChat",
+        "ViewProfile",
+        "ViewFriendRequests",
+        "DeleteMessage",
+        "CreateStory",
+        "ReactToMessage",
+        "LikePost"
+    ]
+}

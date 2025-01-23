@@ -1,0 +1,30 @@
+{
+    "domain": "Banking-Finance",
+    "file": "review_base64_result.json",
+    "detection_rate": 38.095238095238095
+}
+{
+    "domain": "Banking-Finance",
+    "file": "review_Original_result.json",
+    "detection_rate": 100.0
+}
+{
+    "domain": "Banking-Finance",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}
+{
+    "domain": "Banking-Finance",
+    "file": "review_base64_result.json",
+    "detection_rate": 38.095238095238095
+}
+{
+    "domain": "Banking-Finance",
+    "file": "review_Original_result.json",
+    "detection_rate": 100.0
+}
+{
+    "domain": "Banking-Finance",
+    "file": "review_results_test.json",
+    "detection_rate": 0.0
+}

@@ -1,0 +1,23 @@
+{
+    "unique_attack_count": 18,
+    "attack_names": [
+        "ViewAllergyHistory",
+        "ViewPatientHistory",
+        "RequestLabResults",
+        "CheckBMI",
+        "RequestPrescription",
+        "RequestConsultation",
+        "ScheduleAppointment",
+        "RequestCTScan",
+        "RequestXRays",
+        "RequestCholesterolLevel",
+        "ViewVaccinationHistory",
+        "ViewMedicationHistory",
+        "RequestUrineTest",
+        "RequestBloodTest",
+        "RequestSpecialistReferral",
+        "ViewDiagnosis",
+        "CheckBloodPressure",
+        "CheckHeartRate"
+    ]
+}
