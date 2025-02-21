@@ -8,10 +8,8 @@ import numpy as np
 
 
 # 设置OpenAI API密钥
-import os
+openai.api_key = ""
 
-# 从环境变量加载 API Key
-openai_api_key = os.getenv("OPENAI_API_KEY")
 # 定义审查函数
 def review_memory_for_backdoor(memory_content: str) -> str:
     prompt = f"""

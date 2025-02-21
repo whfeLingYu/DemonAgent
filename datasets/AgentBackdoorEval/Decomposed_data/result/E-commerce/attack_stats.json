@@ -1,9 +1,0 @@
-{
-    "unique_attack_count": 4,
-    "attack_names": [
-        "ApplyDiscount",
-        "LoginAccount",
-        "ViewOrderStatus",
-        "WriteReview"
-    ]
-}
