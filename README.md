@@ -1,6 +1,6 @@
 # DemonAgent
 ![alt 属性文本](resource/Overview.png "Dynamically Encrypted Multi-Backdoor Implantation Attack")
-Certainly! Here's an expansion of your usage section:
+Overview of out method
 ### Overview
 DemonAgent introduces a cutting-edge approach to backdoor implantation through the **Dynamically Encrypted Multi-Backdoor Implantation Attack** strategy. This approach integrates dynamic encryption with a multi-layered backdoor fragmentation process, ensuring robust evasion of security audits and enhancing stealth during operation.
 
