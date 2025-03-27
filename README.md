@@ -56,4 +56,4 @@ To begin using DemonAgent, follow the steps below:
 ### Conclusion
 DemonAgent offers a robust framework for conducting and evaluating multi-backdoor attacks on agent systems. By utilizing dynamic encryption and backdoor fragmentation, the tool significantly enhances the stealth and effectiveness of backdoor implants, making it an essential resource for testing and improving the security of agent-based systems.
 
-For further details, please refer to the [research papers](https://arxiv.org/abs/2502.12575) linked in the repository.
+
